@@ -1,0 +1,7 @@
+{
+  "name": "Hand-Controlled Particle Void",
+  "description": "A real-time 3D particle system controlled by hand gestures using computer vision. Open your hand to expand the universe, close it to condense.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
